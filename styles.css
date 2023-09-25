@@ -1,0 +1,13 @@
+.jumbotron{
+background-color:rgb(149,117,205) ;
+color:white;
+}
+.footer{
+    background-color:rgb(196, 177, 227) ;
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
